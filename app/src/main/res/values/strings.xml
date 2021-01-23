@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Uma Demo</string>
+
+    <!-- view related rsc -->
+    <string name="start_button">Start</string>
+    <string name="exit_app">Exit</string>
+    <string name="uma_status_text_view">Uma Service Status: %1$s</string>
+    <string name="uma_start_toast">Uma service has started</string>
+
+    <string name="uma_status_inactive">Stopped</string>
+    <string name="uma_status_active">Running</string>
+
+</resources>
